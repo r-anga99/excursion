@@ -1,0 +1,32 @@
+body {
+  font-family: Verdana;
+  text-align: center;
+  background-color: black;
+}
+.page-heading {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+.header-link, a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+.second-heading {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+.brief-statement {
+  color: gray;
+  font-size: 21px;
+}
+.final-heading {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+#copyright-line {
+  color: gray;
+  text-align: right;
+}
